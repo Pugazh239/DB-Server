@@ -16,7 +16,7 @@ The objective of this experiment is to understand how to deploy and configure a 
 ## Prerequisites
 
 * Basic understanding of cloud computing concepts
-* AWS account or AWS Academy Lab access
+* AWS account or AWS Academy Lab access.
 * An existing VPC and EC2 knowledge (from previous labs)
 * Basic knowledge of Linux commands and SQL
 
